@@ -1,0 +1,24 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Coffee Machine (Kotlin)/*
+!/Coffee Machine (Kotlin)/task/
+/Coffee Machine (Kotlin)/task/*
+!/Coffee Machine (Kotlin)/task/src
+
+# Project exclude paths
+/Topics/Enum/Danger level/out/
+/Topics/Enum/Danger level/out/production/classes/
+/Topics/Enum/Rainbow colors/out/
+/Topics/Enum/Rainbow colors/out/production/classes/
+/Topics/Functional decomposition/Password decomposition/out/
+/Topics/Functional decomposition/Password decomposition/out/production/classes/
